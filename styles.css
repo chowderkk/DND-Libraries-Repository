@@ -1,0 +1,83 @@
+/* login page */
+*{
+    margin: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.login-container {
+    
+    background-color: #ffffff;
+    padding: 70px;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.logo {
+    max-width: 100px;
+    height: auto;
+  
+}
+
+form {
+    display: contents;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputbox {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 50px; 
+    align-items: center;  
+}
+input {
+    border: 0;
+    margin-right: 10px; /* Adjust as needed to add space between the icon and the input field */
+    box-sizing: border-box;
+    border-radius: 500px;
+    align-items: center;
+}
+
+button {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    width: 100%;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+button:hover {
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+}
+
+.forget a{
+    
+    color: #a2a2a2;
+    font-size: 11px;
+}
+
+.register a{
+   
+    color: #000000;
+}
+
+
+
+
+

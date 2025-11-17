@@ -1,0 +1,42 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# PHP
+*.log
+*.cache
+/vendor/
+composer.phar
+composer.lock
+
+# Configuration files with sensitive data (uncomment if needed)
+# config.php
+
+# Uploaded files (optional - uncomment if you don't want to track uploaded files)
+# uploadedDocs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Database dumps (optional - uncomment if you don't want to track SQL files)
+# *.sql
+
