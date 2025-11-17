@@ -5,8 +5,8 @@ A comprehensive web-based file management and document library system developed 
 ## 👥 Authors
 
 **DnD** - College Project Collaboration
-- **D** - [Your Name]
-- **D** - dinothelo
+- **D** - Daniel
+- **D** - Dinothelo
 
 This project was developed as part of our college coursework, combining our initials to create the "DnD Libraries" system.
 
